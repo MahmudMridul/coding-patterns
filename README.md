@@ -4,16 +4,25 @@
  
 ### 1. Hash Table 
 
-1. [3760](solutions/lc_03760.py)
+| Problem | Solution |
+| --- | --- |
+| [3760](https://leetcode.com/problems/maximum-substrings-with-distinct-start/description/) | [Link](solutions/lc_03760.py) |
 
 ### 2. String
 
-1. [3760](solutions/lc_03760.py)
+| Problem | Solution |
+| --- | --- |
+| [3760](https://leetcode.com/problems/maximum-substrings-with-distinct-start/description/) | [Link](solutions/lc_03760.py) |
+
 
 ### 3. Array
 
-1. [2161](solutions/lc_02161.py)
+| Problem | Solution |
+| --- | --- |
+| [2161](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/) | [Link](solutions/lc_02161.py) |
 
 ### 4. Two Pointers
 
-1. [2161](solutions/lc_02161.py)
+| Problem | Solution |
+| --- | --- |
+| [2161](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/) | [Link](solutions/lc_02161.py) |
